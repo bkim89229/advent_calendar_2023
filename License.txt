@@ -1,11 +1,14 @@
+//코드, 이미지
+Copyright ⓒ TeamSparta All rights reserved. ☃️
+
 //음원자료
 "Angels We Have Heard on High" Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 
 //사진자료
-Image by Petra from Pixabay
-https://pixabay.com/photos/winter-christmas-snow-nature-hut-6890764/
-
 Photo by Kieran White on Unsplash
 https://unsplash.com/photos/green-pine-tree-with-fireflies-SBdmQcW8qag?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+Image by Petra from Pixabay
+https://pixabay.com/photos/winter-christmas-snow-nature-hut-6890764/
